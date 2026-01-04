@@ -28,7 +28,7 @@ brew upgrade hemlock hpm
 
 ```bash
 brew uninstall hemlock hpm
-brew untap hemlang/tap
+brew untap hemlang/homebrew-tap
 ```
 
 ## Links
