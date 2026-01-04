@@ -5,7 +5,7 @@ This is the official Homebrew tap for the [Hemlock](https://github.com/hemlang/h
 ## Installation
 
 ```bash
-brew tap hemlang/tap
+brew tap hemlang/homebrew-tap
 brew install hemlock
 brew install hpm
 ```
