@@ -6,6 +6,11 @@ class Hpm < Formula
   license "MIT"
   head "https://github.com/hemlang/hpm.git", branch: "main"
 
+  livecheck do
+    url :stable
+    regex(/^v?(\d+(?:\.\d+)+)$/i)
+  end
+
   depends_on "hemlang/tap/hemlock"
 
   def install
