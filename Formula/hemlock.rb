@@ -1,8 +1,8 @@
 class Hemlock < Formula
   desc "A small, unsafe language for writing unsafe things safely"
   homepage "https://github.com/hemlang/hemlock"
-  url "https://github.com/hemlang/hemlock/archive/refs/tags/v2.16.0.tar.gz"
-  sha256 "0ac6ed81067d5445880ab5f1ee521451a7ee0cd8125e0d8cb404b3c733f8fe2d"
+  url "https://github.com/hemlang/hemlock/archive/refs/tags/v2.16.1.tar.gz"
+  sha256 "0b996decd1c9ccc53860c108a0e45916fbb08ce3f516e7002fe8035adedb2a0a"
   license "MIT"
   head "https://github.com/hemlang/hemlock.git", branch: "main"
 
